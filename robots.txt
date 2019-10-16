@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpooquoo.sellerkeys.com/sitemap.xml
